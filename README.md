@@ -24,7 +24,6 @@
 
 
 
-
 <p align="left">
 <a href="https://twitter.com/harun__me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="neel13040" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/rahul-kumar-gupta-372388160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="argha-Roy" height="30" width="30" /></a>
